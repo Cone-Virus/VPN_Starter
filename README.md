@@ -1,4 +1,4 @@
-# VPN_Starter
+# VPN Starter
 # Why?
 Because one of my friends pointed out how annoying running `sudo ifconfig` can be over and over again.
 # Usage
