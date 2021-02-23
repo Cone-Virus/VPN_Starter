@@ -89,6 +89,7 @@ function interwatcher()
         echo "Starting Interface Watcher..."
         while :
         do
+                sleep 20
                 clear
                 echo ""
                 echo "$choice"
@@ -104,7 +105,6 @@ function interwatcher()
                         printf "%-6s:%20s\n" "$tempinter" "$tempip" #Printing in format
                 done
                 echo "---------------------------"
-                sleep 20
         done
 }
 
